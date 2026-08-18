@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to quickly and accurately extract key insights from text, enhancing comprehension and saving time for professionals and students alike.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
